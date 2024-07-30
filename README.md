@@ -3,9 +3,15 @@ Evet arkadaş ufak bir aradan sonra tekrardan bu piyasaya geri dönüş yapmış
 
 # Config Ayaları
 TOKEN: "Botunuzun Tokeni"
+
 mongoUrl: "Mongo Db Urlniz"
+
 guildID: "Botun bulunduğu sunucunun İd si"
+
 TicketKategori: "Destek taleblerinin bulunduğu kategori İd si"
+
 YetkiliRolü: "Destek taleblerini bakacak yetkili rolünün İd si"
+
 LogTicket: "Log kanalının İd si"
+
 Sunucuİsmi: "Sunucunuzun İsmi"
